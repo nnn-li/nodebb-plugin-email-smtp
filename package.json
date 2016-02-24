@@ -1,7 +1,7 @@
 {
   "name": "nodebb-plugin-email-smtp",
-  "version": "0.0.1",
-  "description": "NodeBB插件通过SMTP服务器发送电子邮件ce",
+  "version": "0.0.2",
+  "description": "NodeBB插件通过SMTP服务器发送电子邮件",
   "keywords": [
     "nodebb",
     "email",
