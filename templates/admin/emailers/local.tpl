@@ -15,25 +15,25 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="form-group">
-					<label for="emailer:local:host">Host</label>
+					<label for="emailer:local:host">域名地址 host</label>
 					<input type="text" class="form-control" id="emailer:local:host" name="emailer:local:host" />
 				</div>
 			</div>
 			<div class="col-sm-12">
 				<div class="form-group">
-					<label for="emailer:local:port">Port</label>
+					<label for="emailer:local:port">端口号</label>
 					<input type="text" class="form-control" value="25" id="emailer:local:port" name="emailer:local:port" />
 				</div>
 			</div>
 			<div class="col-sm-12">
 				<div class="form-group">
-					<label for="emailer:local:username">User</label>
+					<label for="emailer:local:username">用户</label>
 					<input type="text" class="form-control" id="emailer:local:username" name="emailer:local:username" />
 				</div>
 			</div>
 			<div class="col-sm-12">
 				<div class="form-group">
-					<label for="emailer:local:password">Password</label>
+					<label for="emailer:local:password">密码</label>
 					<input type="password" class="form-control" id="emailer:local:password" name="emailer:local:password" />
 				</div>
 			</div>
