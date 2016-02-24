@@ -3,7 +3,7 @@
 <div class="row">
 	<div class="col-lg-12">
 		<blockquote>
-			这个插件可以让NodeBB通过SMTP接口发送电子邮件.
+			通过SMTP接口发送电子邮件.
 		</blockquote>
 	</div>
 </div>
