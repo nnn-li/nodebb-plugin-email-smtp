@@ -1,0 +1,34 @@
+{
+  "name": "nodebb-plugin-email-smtp",
+  "version": "0.0.1",
+  "description": "NodeBB插件通过SMTP服务器发送电子邮件ce",
+  "keywords": [
+    "nodebb",
+    "email",
+    "emailer",
+    "smtp"
+  ],
+  "homepage": "https://github.com/nnn-li/nodebb-plugin-email-smtp",
+  "bugs": {
+    "url": "http://github.com/nnn-li/nodebb-plugin-email-smtp/issues",
+    "email": "root@zanjs.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "zan",
+    "email": "root@zanjs.com",
+    "url": "http://zanjs.com"
+  },
+  "dependencies": {
+    "nodemailer": "~0.6.0",
+    "path": "~0.4.9"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nnn-li/nodebb-plugin-email-smtp.git"
+  },
+  "nbbpm": {
+    "compatibility": "^0.6.0"
+  }
+}
