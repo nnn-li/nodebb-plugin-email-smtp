@@ -22,7 +22,7 @@ NodeBB插件通过SMTP服务发送电子邮件
 ---
 
 DKIM 签名
-推荐服务商 (Gmail, Hotmail:outlook, mandrillapp, etc.)
+推荐服务商 (163,qq,Gmail, Hotmail:outlook, mandrillapp, etc.)
 
 
 
