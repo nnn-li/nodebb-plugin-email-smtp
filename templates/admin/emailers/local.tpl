@@ -1,4 +1,4 @@
-<h1><i class="fa fa-envelope-o"></i> 邮件服务 (Local)</h1>
+<h1><i class="fa fa-envelope-o"></i> 邮件服务 (SMTP)</h1>
 
 <div class="row">
 	<div class="col-lg-12">
