@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-email-smtp",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "通过SMTP服务 发送电子邮件",
   "keywords": [
     "nodebb",
