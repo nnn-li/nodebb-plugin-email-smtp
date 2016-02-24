@@ -1,5 +1,7 @@
 'use strict';
 
+// @auth zan
+
 var winston = module.parent.require('winston'),
     Meta = module.parent.require('./meta'),
 

@@ -60,8 +60,8 @@
 				app.alert({
 					alert_id: 'emailer-local',
 					type: 'info',
-					title: 'Settings Changed',
-					message: 'Please reload your NodeBB to apply these changes',
+					title: '设置更改',
+					message: '请重新加载应用这些更改',
 					timeout: 5000,
 					clickfn: function() {
 						socket.emit('admin.reload');
