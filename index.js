@@ -47,7 +47,10 @@ Emailer.send = function(data, callback) {
     var transport = nodemailer.createTransport(transportOptions);
 
     transport.sendMail({
-        from: data.from,
+        from: {
+            name: data.from_name,
+            address: data.from
+        }, // sender address ,
         to: data.to,
         html: data.html,
         text: data.plaintext,
