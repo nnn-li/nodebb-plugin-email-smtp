@@ -44,7 +44,7 @@ Emailer.send = function(data, callback) {
             pass: pass
         };
     }
-    var transport = nodemailer.createTransport('SMTP', transportOptions);
+    var transport = nodemailer.createTransport(transportOptions);
 
     transport.sendMail({
         from: data.from,
