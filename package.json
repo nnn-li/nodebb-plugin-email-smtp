@@ -20,7 +20,7 @@
     "url": "http://zanjs.com"
   },
   "dependencies": {
-    "nodemailer": "~0.6.0",
+    "nodemailer": "^2.2.1",
     "path": "~0.4.9"
   },
   "main": "index.js",
